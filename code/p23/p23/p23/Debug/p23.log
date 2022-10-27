@@ -1,0 +1,4 @@
+﻿  p23.c
+c:\users\aa097\onedrive\桌面\程式設計\hw3-1\p23\p23\p23\p23.c(10): warning C4244: '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\aa097\onedrive\桌面\程式設計\hw3-1\p23\p23\p23\p23.c(40): warning C4098: 'main': 'void' 函式正在傳回值
+  p23.vcxproj -> C:\Users\Aa097\OneDrive\桌面\程式設計\HW3-1\p23\p23\Debug\p23.exe
